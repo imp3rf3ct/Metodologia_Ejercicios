@@ -15,7 +15,6 @@ public class Principal {
 		
 		i = scan.nextInt();
 		
-		float time = System.nanoTime();
 		for(int j=1;j<i;j++){
 			fib.add(fib.get(j-1)+fib.get(j));
 		}
@@ -24,6 +23,5 @@ public class Principal {
 		}
 		
 		scan.close();
-		System.out.printf("\n %f",System.nanoTime() - time);
 	}
 }
