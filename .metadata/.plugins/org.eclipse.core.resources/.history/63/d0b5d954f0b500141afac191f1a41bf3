@@ -1,0 +1,25 @@
+package principal;
+
+import utilities.Util;
+import java.util.*;
+
+
+public class Principal {
+	public static void main(String [] args){
+		start();
+	}
+	
+	private static void start(){
+		Util<Integer> ut = new Util<Integer>();
+		Scanner scan = new Scanner(System.in);
+		int num;
+		System.out.printf("\nPrograma que calcula iterativamente los n primeros numeros de una serie telescopica\n");
+		System.out.printf("¿Cuantos numeros desea calcular de la serie: ?");
+		
+		num = scan.nextInt();
+		
+		ut.TelescopicSumIterative(num);	
+	}
+}
+
+

@@ -42,9 +42,9 @@
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Fibonacci_Recursivo/src/paquete/Principal.java"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="595" selectionTopPixel="0"/>
 </editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Principal.java" partName="Principal.java" path="/home/ccs/workspace/BusquedaBinariaRecursivo/src/Principal.java" title="Principal.java" tooltip="BusquedaBinariaRecursivo/src/Principal.java" workbook="DefaultEditorWorkbook">
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Principal.java" partName="Principal.java" path="/home/ccs/Documentos/Codigo/Metodologia/BusquedaBinariaRecursivo/src/Principal.java" title="Principal.java" tooltip="BusquedaBinariaRecursivo/src/Principal.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BusquedaBinariaRecursivo/src/Principal.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="535" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="562" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Util.java" partName="Util.java" path="/home/ccs/workspace/Utilities/src/utilities/Util.java" title="Util.java" tooltip="Utilities/src/utilities/Util.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Utilities/src/utilities/Util.java"/>
@@ -68,9 +68,6 @@
 </view>
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
-<expanded>
-<category IMemento.internal.id="Warnings"/>
-</expanded>
 <columnWidths org.eclipse.ui.ide.locationField="105" org.eclipse.ui.ide.markerType="338" org.eclipse.ui.ide.pathField="140" org.eclipse.ui.ide.resourceField="105" org.eclipse.ui.ide.severityAndDescriptionField="350"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
